@@ -27,7 +27,7 @@ Unauthorized scanning is illegal and may result in criminal charges.
 ```bash
 git clone https://github.com/yourusername/SecureScanPro.git
 cd SecureScanPro
-pip install -r requirements.txt
+
 ```
 
 ### Usage
